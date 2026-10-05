@@ -96,10 +96,6 @@ xdelta3 -d -s "Gensou Suiko Gaiden Vol. 1 - Harmonia no Kenshi (Japan).bin" Suik
 
 타이틀과 엔딩 영상의 로고·부제 글씨는 글꼴이 아니라 따로 만든 글씨 그림입니다.
 
-## 감사
-
-번역은 일본어 원문에서 했고, 외전에만 나오는 인물 등 일부 고유명사 표기는 영문 팬 번역(Suikogaiden Translation Project)을 참고했습니다. 먼저 번역을 만든 분들께 감사드립니다.
-
 ## 면책
 
 - 이 프로젝트는 팬 번역이며 Konami와 관련이 없습니다.
