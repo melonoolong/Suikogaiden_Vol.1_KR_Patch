@@ -29,7 +29,7 @@ PlayStation 일본판 『幻想水滸外伝 Vol.1 ハルモニアの剣士』용
 | 파일 | 크기 | SHA-256 |
 |---|---|---|
 | `Suikogaiden_Vol1_KR_v0.5.0.xdelta` | 3,688,395 바이트 | `9de37313b50006f96bc810ee1c6d91e1a7cef9d2dc662e5b72ab33d529a3ff8d` |
-| `suikogaiden1_kr.cue` | 84 바이트 | 결과 `.bin`용 cue 파일 |
+| `suikogaiden1_kr.cue` | 81 바이트 | 결과 `.bin`용 cue 파일 |
 
 [Releases](../../releases)에서 받을 수 있습니다.
 
