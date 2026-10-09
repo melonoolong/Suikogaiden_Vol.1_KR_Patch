@@ -10,6 +10,8 @@ PlayStation 일본판 『幻想水滸外伝 Vol.1 ハルモニアの剣士』용
 > **엔딩까지 플레이하며 검수했고, v0.6.0에서는 CG 138장(100%)을 모으는 여러 회차 진행도 확인했습니다. 다만 모든 선택지 갈래와 동작을 확인한 것은 아닙니다.**
 > 오역, 어색한 문구, 멈춤이나 글자 깨짐이 남아 있을 수 있습니다.
 
+2편 패치: [Suikogaiden_Vol.2_KR_Patch](https://github.com/melonoolong/Suikogaiden_Vol.2_KR_Patch)
+
 ## 지원 원본
 
 | 항목 | 값 |
